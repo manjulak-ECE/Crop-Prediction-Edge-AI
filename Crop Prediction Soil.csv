@@ -1,0 +1,220 @@
+State,District,Soil,Temperature,Humidity,SoilMoisture,Rainfall,CropLabel
+Karnataka,Chikabalapura,Black soil,32,44,150,160,Ragi
+Karnataka,Chikabalapura,Black soil,26,46,240,235,Rice
+Karnataka,Chikabalapura,Black soil,36,44,135,120,Maize
+Karnataka,Chikabalapura,Black soil,27,58,280,241,Rice
+Karnataka,Chikabalapura,Black soil,24,63,279,245,Rice
+Karnataka,Chikabalapura,Black soil,33,45,163,150,Ragi
+Karnataka,Chikabalapura,Black soil,24,52,260,250,Rice
+Karnataka,Chikabalapura,Black soil,35,54,43,76,Maize
+Karnataka,Chikabalapura,Black soil,33,58,171,167,Ragi
+Karnataka,Chikabalapura,Black soil,27,40,270,274,Rice
+Karnataka,Chikabalapura,Black soil,26,54,245,237,Rice
+Karnataka,Chikabalapura,Black soil,35,56,102,112,Maize
+Karnataka,Chikabalapura,Black soil,29,66,232,272,Rice
+Karnataka,Chikabalapura,Black soil,27,67,251,258,Rice
+Karnataka,Chikabalapura,Black soil,40,51,128,93,Maize
+Karnataka,Chikabalapura,Black soil,33,58,171,167,Ragi
+Karnataka,Chikabalapura,Black soil,33,58,171,167,Ragi
+Karnataka,Chikabalapura,Black soil,31,63,173,161,Ragi
+Karnataka,Chikabalapura,Black soil,25,51,245,250,Rice
+Karnataka,Chikabalapura,Black soil,25,49,230,268,Rice
+Karnataka,Chikabalapura,Black soil,36,68,57,105,Maize
+Karnataka,Chikabalapura,Black soil,25,46,244,263,Rice
+Karnataka,Chikabalapura,Black soil,40,66,57,72,Maize
+Karnataka,Chikabalapura,Black soil,29,40,261,273,Rice
+Karnataka,Chikabalapura,Black soil,34,51,106,101,Maize
+Karnataka,Chikabalapura,Black soil,29,64,251,259,Rice
+Karnataka,Chikabalapura,Black soil,28,55,241,233,Rice
+Karnataka,Chikabalapura,Black soil,31,63,173,161,Ragi
+Karnataka,Chikabalapura,Black soil,25,51,245,250,Rice
+Karnataka,Chikabalapura,Black soil,25,49,230,268,Rice
+Karnataka,Chikabalapura,Black soil,36,68,57,105,Maize
+Karnataka,Chikabalapura,Black soil,25,46,244,263,Rice
+Karnataka,Chikabalapura,Black soil,40,66,57,72,Maize
+Karnataka,Chikabalapura,Black soil,29,40,261,273,Rice
+Karnataka,Chikabalapura,Black soil,34,51,106,101,Maize
+Karnataka,Chikabalapura,Black soil,29,64,251,259,Rice
+Karnataka,Chikabalapura,Black soil,28,55,241,233,Rice
+Karnataka,Chikabalapura,Black soil,35,54,109,98,Maize
+Karnataka,Chikabalapura,Black soil,25,47,274,247,Rice
+Karnataka,Chikabalapura,Black soil,39,70,74,79,Ragi
+Karnataka,Chikabalapura,Black soil,29,55,245,246,Rice
+Karnataka,Chikabalapura,Black soil,31,70,193,171,Ragi
+Karnataka,Chikabalapura,Black soil,28,42,269,267,Rice
+Karnataka,Chikabalapura,Black soil,32,53,195,163,Ragi
+Karnataka,Chikabalapura,Black soil,27,42,275,237,Rice
+Karnataka,Chikabalapura,Black soil,34,60,170,154,Ragi
+Karnataka,Chikabalapura,Black soil,26,51,243,271,Rice
+Karnataka,Chikabalapura,Black soil,31,66,203,195,Ragi
+Karnataka,Chikabalapura,Black soil,37,70,30,99,Maize
+Karnataka,Chikabalapura,Black soil,37,66,57,92,Ragi
+Karnataka,Chikabalapura,Black soil,30,69,179,165,Ragi
+Karnataka,Chikabalapura,Black soil,37,58,37,91,Maize
+Karnataka,Chikabalapura,Black soil,37,48,81,107,Maize
+Karnataka,Chikabalapura,Black soil,32,52,174,200,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,62,98,84,Maize
+Karnataka,RAICHUR,Mixed red and black soil,35,43,73,85,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,26,56,236,250,Rice
+Karnataka,RAICHUR,Mixed red and black soil,24,45,255,248,Rice
+Karnataka,RAICHUR,Mixed red and black soil,32,59,196,203,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,34,68,99,89,Maize
+Karnataka,RAICHUR,Mixed red and black soil,36,52,61,103,Maize
+Karnataka,RAICHUR,Mixed red and black soil,33,53,201,210,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,36,68,35,82,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,27,58,260,252,Rice
+Karnataka,RAICHUR,Mixed red and black soil,37,51,114,84,Maize
+Karnataka,RAICHUR,Mixed red and black soil,33,61,203,170,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,36,64,138,117,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,42,59,84,Maize
+Karnataka,RAICHUR,Mixed red and black soil,33,47,178,208,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,28,67,236,262,Rice
+Karnataka,RAICHUR,Mixed red and black soil,30,60,161,153,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,39,63,39,97,Maize
+Karnataka,RAICHUR,Mixed red and black soil,32,67,216,164,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,42,106,114,Maize
+Karnataka,RAICHUR,Mixed red and black soil,31,66,188,208,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,48,101,110,Maize
+Karnataka,RAICHUR,Mixed red and black soil,30,52,160,208,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,38,52,113,82,Maize
+Karnataka,RAICHUR,Mixed red and black soil,26,70,239,249,Rice
+Karnataka,RAICHUR,Mixed red and black soil,35,46,84,79,Maize
+Karnataka,RAICHUR,Mixed red and black soil,35,50,108,94,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,48,186,207,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,40,46,37,115,Maize
+Karnataka,RAICHUR,Mixed red and black soil,32,46,191,207,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,39,65,89,120,Maize
+Karnataka,RAICHUR,Mixed red and black soil,26,51,243,271,Rice
+Karnataka,RAICHUR,Mixed red and black soil,31,66,203,195,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,70,30,99,Maize
+Karnataka,RAICHUR,Mixed red and black soil,37,66,57,92,Maize
+Karnataka,RAICHUR,Mixed red and black soil,30,69,179,165,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,58,37,91,Maize
+Karnataka,RAICHUR,Mixed red and black soil,37,48,81,107,Maize
+Karnataka,RAICHUR,Mixed red and black soil,32,52,174,200,Ragi
+Karnataka,DAVANGERE,Black soil,38,58,32,87,Maize
+Karnataka,DAVANGERE,Black soil,25,68,236,246,Rice
+Karnataka,DAVANGERE,Black soil,40,47,45,102,Maize
+Karnataka,DAVANGERE,Black soil,33,63,215,194,Ragi
+Karnataka,DAVANGERE,Black soil,34,54,36,81,Maize
+Karnataka,DAVANGERE,Black soil,33,56,193,205,Ragi
+Karnataka,DAVANGERE,Black soil,36,51,69,70,Maize
+Karnataka,DAVANGERE,Black soil,25,55,271,254,Rice
+Karnataka,DAVANGERE,Black soil,33,53,150,173,Ragi
+Karnataka,DAVANGERE,Black soil,24,45,256,268,Rice
+Karnataka,DAVANGERE,Black soil,36,54,107,104,Maize
+Karnataka,DAVANGERE,Black soil,40,70,124,105,Maize
+Karnataka,DAVANGERE,Black soil,30,49,156,219,Ragi
+Karnataka,DAVANGERE,Black soil,29,56,278,258,Rice
+Karnataka,DAVANGERE,Black soil,33,52,172,178,Ragi
+Karnataka,DAVANGERE,Black soil,40,49,66,96,Maize
+Karnataka,DAVANGERE,Black soil,37,64,103,75,Maize
+Karnataka,DAVANGERE,Black soil,30,70,190,204,Ragi
+Karnataka,DAVANGERE,Black soil,38,55,100,73,Maize
+Karnataka,DAVANGERE,Black soil,24,56,234,241,Rice
+Karnataka,DAVANGERE,Black soil,32,65,215,208,Ragi
+Karnataka,DAVANGERE,Black soil,28,53,258,233,Rice
+Karnataka,DAVANGERE,Black soil,37,46,105,105,Maize
+Karnataka,DAVANGERE,Black soil,38,46,57,97,Maize
+Karnataka,DAVANGERE,Black soil,32,56,218,170,Ragi
+Karnataka,DAVANGERE,Black soil,24,53,272,267,Rice
+Karnataka,DAVANGERE,Black soil,31,63,157,176,Ragi
+Karnataka,DAVANGERE,Black soil,26,44,255,236,Rice
+Karnataka,Chikabalapura,Laterite soil,40,66,84,81,Maize
+Karnataka,Chikabalapura,Laterite soil,34,44,73,85,Rice
+Karnataka,Chikabalapura,Laterite soil,34,53,167,169,Rice
+Karnataka,Chikabalapura,Laterite soil,31,43,168,172,Ragi
+Karnataka,Chikabalapura,Laterite soil,25,51,264,242,Rice
+Karnataka,Chikabalapura,Laterite soil,34,49,105,92,Maize
+Karnataka,Chikabalapura,Laterite soil,28,60,267,270,Rice
+Karnataka,Chikabalapura,Laterite soil,36,62,69,116,Maize
+Karnataka,Chikabalapura,Laterite soil,26,65,251,232,Rice
+Karnataka,Chikabalapura,Laterite soil,27,44,273,251,Rice
+Karnataka,Chikabalapura,Laterite soil,35,49,136,110,Maize
+Karnataka,Chikabalapura,Laterite soil,28,54,267,276,Rice
+Karnataka,Chikabalapura,Laterite soil,39,50,87,94,Maize
+Karnataka,Chikabalapura,Laterite soil,28,57,277,263,Rice
+Karnataka,Chikabalapura,Laterite soil,29,58,266,241,Rice
+Karnataka,Chikabalapura,Laterite soil,29,58,250,264,Rice
+Karnataka,Chikabalapura,Laterite soil,25,55,252,275,Rice
+Karnataka,Chikabalapura,Laterite soil,38,66,87,87,Rice
+Karnataka,Chikabalapura,Laterite soil,34,40,168,184,Rice
+Karnataka,Chikabalapura,Laterite soil,33,61,186,203,Ragi
+Karnataka,Chikabalapura,Laterite soil,27,61,270,231,Rice
+Karnataka,Chikabalapura,Laterite soil,36,51,67,83,Maize
+Karnataka,Chikabalapura,Laterite soil,24,40,261,273,Rice
+Karnataka,Chikabalapura,Laterite soil,25,42,271,279,Rice
+Karnataka,Chikabalapura,Laterite soil,27,64,257,255,Rice
+Karnataka,Chikabalapura,Laterite soil,25,42,243,268,Rice
+Karnataka,Chikabalapura,Laterite soil,40,61,113,71,Maize
+Karnataka,Chikabalapura,Laterite soil,36,65,99,120,Rice
+Karnataka,Chikabalapura,Laterite soil,25,41,266,232,Rice
+Karnataka,Chikabalapura,Laterite soil,37,47,86,103,Maize
+Karnataka,Chikabalapura,Laterite soil,24,68,263,234,Rice
+Karnataka,Chikabalapura,Laterite soil,40,58,30,83,Maize
+Karnataka,Chikabalapura,Laterite soil,27,46,242,264,Rice
+Karnataka,RAICHUR,Mixed red and black soil,30,48,162,175,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,35,68,116,90,Maize
+Karnataka,RAICHUR,Mixed red and black soil,31,69,165,200,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,31,66,208,215,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,38,53,76,105,Maize
+Karnataka,RAICHUR,Mixed red and black soil,31,52,219,173,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,34,50,36,116,Maize
+Karnataka,RAICHUR,Mixed red and black soil,33,64,206,177,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,37,51,63,71,Maize
+Karnataka,RAICHUR,Mixed red and black soil,30,45,178,220,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,34,43,61,75,Maize
+Karnataka,RAICHUR,Mixed red and black soil,31,68,178,176,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,38,50,69,85,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,44,165,200,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,34,49,213,153,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,36,55,31,109,Maize
+Karnataka,RAICHUR,Mixed red and black soil,33,47,159,175,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,36,65,63,70,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,41,213,153,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,39,46,54,75,Maize
+Karnataka,RAICHUR,Mixed red and black soil,39,66,130,85,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,66,213,153,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,38,51,103,87,Maize
+Karnataka,RAICHUR,Mixed red and black soil,35,47,51,103,Maize
+Karnataka,RAICHUR,Mixed red and black soil,30,43,178,220,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,40,65,30,78,Maize
+Karnataka,RAICHUR,Mixed red and black soil,28,43,242,250,Rice
+Karnataka,RAICHUR,Mixed red and black soil,24,54,263,252,Rice
+Karnataka,RAICHUR,Mixed red and black soil,34,47,165,200,Ragi
+Karnataka,RAICHUR,Mixed red and black soil,39,50,102,105,Maize
+Karnataka,RAICHUR,Mixed red and black soil,34,66,42,83,Rice
+Karnataka,RAICHUR,Mixed red and black soil,28,58,273,261,Rice
+Karnataka,RAICHUR,Mixed red and black soil,32,40,156,176,Ragi
+Karnataka,DAVANGERE,Red soil,38,46,84,76,Maize
+Karnataka,DAVANGERE,Red soil,34,67,187,169,Ragi
+Karnataka,DAVANGERE,Red soil,32,61,156,176,Ragi
+Karnataka,DAVANGERE,Red soil,39,40,111,110,Maize
+Karnataka,DAVANGERE,Red soil,27,44,240,272,Rice
+Karnataka,DAVANGERE,Red soil,34,64,54,116,Maize
+Karnataka,DAVANGERE,Red soil,25,40,251,244,Rice
+Karnataka,DAVANGERE,Red soil,36,50,62,81,Maize
+Karnataka,DAVANGERE,Red soil,29,58,263,260,Rice
+Karnataka,DAVANGERE,Red soil,34,60,100,81,Maize
+Karnataka,DAVANGERE,Red soil,39,68,111,110,Maize
+Karnataka,DAVANGERE,Red soil,25,48,276,232,Rice
+Karnataka,DAVANGERE,Red soil,38,67,82,71,Maize
+Karnataka,DAVANGERE,Red soil,29,61,235,272,Rice
+Karnataka,DAVANGERE,Red soil,36,57,112,83,Maize
+Karnataka,DAVANGERE,Red soil,30,46,171,172,Ragi
+Karnataka,DAVANGERE,Red soil,37,45,120,135,Maize
+Karnataka,DAVANGERE,Red soil,24,61,246,270,Rice
+Karnataka,DAVANGERE,Red soil,34,44,73,85,Maize
+Karnataka,DAVANGERE,Red soil,34,53,167,169,Ragi
+Karnataka,DAVANGERE,Red soil,31,43,168,172,Ragi
+Karnataka,DAVANGERE,Red soil,25,51,264,242,Rice
+Karnataka,DAVANGERE,Red soil,34,49,105,92,Maize
+Karnataka,DAVANGERE,Red soil,28,60,267,270,Rice
+Karnataka,DAVANGERE,Red soil,36,62,69,116,Maize
+Karnataka,DAVANGERE,Red soil,26,65,251,232,Rice
+Karnataka,DAVANGERE,Red soil,27,44,273,251,Rice
+Karnataka,DAVANGERE,Red soil,35,49,136,110,Maize
+Karnataka,DAVANGERE,Red soil,28,54,267,276,Rice
+Karnataka,DAVANGERE,Red soil,39,50,87,94,Maize
+Karnataka,DAVANGERE,Red soil,28,57,277,263,Rice
+Karnataka,DAVANGERE,Red soil,29,58,266,241,Rice
